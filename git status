@@ -1,0 +1,36 @@
+[33mcommit d9281f20f4a0164562024b36320be33276f96700[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: aa422b3 5e1784e
+Author: Kyle Kern <KKern@dev-10.com>
+Date:   Tue Feb 8 13:56:41 2022 -0600
+
+    Merge branch 'master' of https://github.com/kykern42/first-project
+
+[33mcommit aa422b314b6348bc13d8eaabffd9e1b47d50bc7c[m
+Author: Kyle Kern <KKern@dev-10.com>
+Date:   Tue Feb 8 13:55:34 2022 -0600
+
+    add home.html
+
+[33mcommit 5e1784eead06300771c905aeede9a1c742eae894[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Kyle Kern <93953881+kykern42@users.noreply.github.com>
+Date:   Tue Feb 8 13:53:57 2022 -0600
+
+    Create file.txt
+
+[33mcommit 630947d0842aa4a3eabb236aca4ff380c09b9dd2[m
+Author: Kyle Kern <KKern@dev-10.com>
+Date:   Tue Feb 8 13:41:30 2022 -0600
+
+    button click, ignore log files
+
+[33mcommit 9b2ecc3717343eb4de1f7a1f5526f8baf90c062e[m
+Author: Kyle Kern <KKern@dev-10.com>
+Date:   Tue Feb 8 13:28:30 2022 -0600
+
+    added JavaScript
+
+[33mcommit a586a47f34b3aa340100f99443c83ed00bc022ee[m
+Author: Kyle Kern <KKern@dev-10.com>
+Date:   Tue Feb 8 10:04:18 2022 -0600
+
+    initial commit
